@@ -2,6 +2,8 @@
 
 ### NASA Earth Information Center Multi-Sensory Jukebox
 
+Deployed Link:https://earth-sound-supernova.streamlit.app/
+
 **Turn Earth imagery into an interactive soundscape.**
 
 EARTH//SOUND is an experimental, accessibility-minded sonification
